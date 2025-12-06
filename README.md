@@ -64,9 +64,8 @@ PPO(Proximal Policy Optimization) 기반 트레이딩 에이전트를 학습하�
 
 - 한 스텝에서의 보상은 포트폴리오 수익률 기반으로 정의:
 
-\[
-r_t = \frac{Equity_{t+1} - Equity_t}{Equity_t}
-\]
+$r_t = \frac{Equity_{t+1} - Equity_t}{Equity_t}$
+
 
 - 에피소드 전체 평가 시에는
   - 총 수익률 (Total Return %)
