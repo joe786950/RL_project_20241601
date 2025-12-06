@@ -121,3 +121,9 @@ $r_t = \frac{Equity_{t+1} - Equity_t}{Equity_t}$
 > 데이터 수집부터 백테스트 결과까지 한 번에 재현할 수 있습니다.
 
 
+## 출력 예
+
+![eth-krw 결과](images/ppo-eth.png)
+![eth-krw trade history](images/eth-trade_his.png)
+
+
