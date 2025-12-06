@@ -1,5 +1,5 @@
 # RL_project_20241601
-# PPO 기반 암호화폐 트레이딩 에이전트
+PPO 기반 암호화폐 트레이딩 에이전트
 
 Upbit ETH/KRW 일봉(또는 분봉) 데이터를 사용하여  
 PPO(Proximal Policy Optimization) 기반 트레이딩 에이전트를 학습하고,  
