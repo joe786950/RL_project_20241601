@@ -123,7 +123,7 @@ $r_t = \frac{Equity_{t+1} - Equity_t}{Equity_t}$
 
 ## 출력 예
 
-![eth-krw 결과](images/ppo-eth.png)
+![eth-krw 결과 ](images/ppo-eth.png)
 ![eth-krw trade history](images/eth-trade_his.png)
 
 
