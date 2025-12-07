@@ -128,25 +128,3 @@ $r_t = \frac{Equity_{t+1} - Equity_t}{Equity_t}$
 
 
 
-**Table 1. Performance comparison in terms of Sharpe ratio (mean and 95% CI).**
-
-| Experiment   | Mean Sharpe | 95% CI lower | 95% CI upper |
-|-------------|------------:|-------------:|-------------:|
-| baseline    | 0.133 | -0.008 | 0.275 |
-| high_entropy| 0.080 | -0.123 | 0.283 |
-| large_clip  | 0.132 | -0.110 | 0.373 |
-| low_entropy | 0.166 |  0.075 | 0.256 |
-| low_lr      | 0.200 |  0.061 | 0.339 |
-| small_clip  | 0.095 |  0.073 | 0.117 |
-
-**Table 2. Performance comparison in terms of total return (mean and 95% CI).**
-
-| Experiment    | Mean Return (\%) | 95% CI lower (\%) | 95% CI upper (\%) |
-|--------------|-----------------:|------------------:|------------------:|
-| baseline     |  7.75 | -13.07 | 28.58 |
-| high_entropy |  4.73 | -19.20 | 28.65 |
-| large_clip   | -1.25 | -28.24 | 25.74 |
-| low_entropy  | 12.24 |   0.75 | 23.74 |
-| low_lr       | 20.03 |  -1.02 | 41.09 |
-| small_clip   |  1.73 |  -1.44 |  4.90 |
-
